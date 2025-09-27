@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">krishok-sathi-flutter</string>
+    <string name="title_activity_main">krishok-sathi-flutter</string>
+    <string name="package_name">com.krishok.sathi</string>
+    <string name="custom_url_scheme">com.krishok.sathi</string>
+</resources>
