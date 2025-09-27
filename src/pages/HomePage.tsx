@@ -58,7 +58,7 @@ export const HomePage: React.FC<HomePageProps> = ({ selectedCrop }) => {
               </div>
               <div className="flex items-center gap-2">
                 <CloudSun className="text-warning" size={16} />
-                <span className="text-sm">আবহাওয়া: ভালো (২৮°C)</span>
+                <span className="text-sm">আবহাওয়া: ভালো (২৮°C) good</span>
               </div>
             </div>
           )}
